@@ -20,3 +20,14 @@ salesforce-studies/
 ├── flows/                # Exemplos de automações com Flow
 ├── integrations/         # Exemplos de chamadas API, integração externa
 └── docs/                 # Documentações, resumos e cheatsheets
+
+## 🤝 Sugestões e Colaborações
+
+Este projeto é aberto a colaborações!  
+Se você tem dicas, melhorias, exemplos de código ou correções, fique à vontade para contribuir:
+
+- Abra uma **issue** com sugestões, dúvidas ou problemas encontrados.
+- Envie um **pull request** com melhorias, novos exemplos ou correções.
+- Compartilhe suas ideias para tornar este material ainda mais útil para quem está estudando Salesforce!
+
+Qualquer contribuição é muito bem-vinda. Vamos crescer juntos! 🚀☁️
